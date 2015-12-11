@@ -1,16 +1,35 @@
 body {
-   background-color: #f0f0f2;
-   margin: 0;
-   padding: 0;
    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+   background-image: url("http://i36.photobucket.com/albums/e8/techguy888/8_zpszgav2ndy.jpg");
+   background-size: cover;
 }
 
-div {
-   width: 800px;
-   margin: 5em auto;
-   padding: 5px;
-   background-color: #fff;
-   border-radius: 1em;
+.center {
+  text-align: center;
+  }
+
+.left {
+  text-align: left;
 }
 
+.contactinfo {
+  width: 30%;
+}
+
+.common {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding: 5px;
+  background-color: #f0f0f2;
+  border-radius: 1em;
+}
+
+.title {
+  width: 50%;
+}
+
+.main {
+   width: 80%;
+}
